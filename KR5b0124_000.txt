@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:49:41.959191
-#+TITLE: 許太史真君圖傳
-#+PROPERTY: DZID  DZ0440
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，6—716 二卷 洞玄部靈圖類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
